@@ -1,5 +1,6 @@
 ![Python Version](https://img.shields.io/badge/python-blue)
 ![Aiogram](https://img.shields.io/badge/aiogram-orange)
+![Telegram](https://img.shields.io/badge/Telegram-%40your_telegram_username-blue)
 ![OpenWeather API](https://img.shields.io/badge/OpenWeather%20API-green)
 ![APILayer API](https://img.shields.io/badge/APILayer%20API-green)
 
